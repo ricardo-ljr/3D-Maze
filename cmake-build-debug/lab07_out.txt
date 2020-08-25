@@ -1,0 +1,53 @@
+Solve Maze: 
+Layer 1
+ _ _ _ _
+ _ X X X
+ _ X X X
+ _ X X _
+Layer 2
+ _ _ _ X
+ X X X X
+ X X X X
+ _ X X X
+Layer 3
+ _ _ X _
+ _ X X _
+ _ X X X
+ _ X X X
+Layer 4
+ X _ X X
+ X _ X X
+ X _ X X
+ X _ _ X
+Layer 5
+ X X _ X
+ X _ _ X
+ X _ X X
+ X X _ _
+
+Solution: 
+Layer 1
+ R R I *
+ _ X X X
+ _ X X X
+ _ X X _
+Layer 2
+ I L L X
+ X X X X
+ X X X X
+ _ X X X
+Layer 3
+ R I X _
+ _ X X _
+ _ X X X
+ _ X X X
+Layer 4
+ X D X X
+ X D X X
+ X D X X
+ X R I X
+Layer 5
+ X X _ X
+ X _ _ X
+ X _ X X
+ X X R E

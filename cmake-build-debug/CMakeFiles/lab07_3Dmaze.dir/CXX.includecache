@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ricardoleitejr/CLionProjects/BYU/lab07_3Dmaze/Maze.h
+MazeInterface.h
+/Users/ricardoleitejr/CLionProjects/BYU/lab07_3Dmaze/MazeInterface.h
+iostream
+-
+string
+-
+sstream
+-
+
+/Users/ricardoleitejr/CLionProjects/BYU/lab07_3Dmaze/MazeInterface.h
+string
+-
+
+/Users/ricardoleitejr/CLionProjects/BYU/lab07_3Dmaze/main.cpp
+crtdbg.h
+-
+iostream
+-
+fstream
+-
+sstream
+-
+Maze.h
+/Users/ricardoleitejr/CLionProjects/BYU/lab07_3Dmaze/Maze.h
+
